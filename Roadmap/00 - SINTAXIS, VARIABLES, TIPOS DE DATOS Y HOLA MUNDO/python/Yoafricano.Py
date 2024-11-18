@@ -17,6 +17,6 @@ en varias líneas
 my_variable = "Mi variable"
 my_variable = "Nuevo valor de mi variable"
 
-MY CONSTANT = "Mi contaste" # Por convención.
+MY CONSTANT = "Mi contaste" # Por convención..
 
 
