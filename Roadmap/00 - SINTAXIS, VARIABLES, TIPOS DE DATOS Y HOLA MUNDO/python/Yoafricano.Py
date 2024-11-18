@@ -14,4 +14,9 @@ un comentario
 en varias líneas
 '''
 
-my_variable = 
+my_variable = "Mi variable"
+my_variable = "Nuevo valor de mi variable"
+
+MY CONSTANT = "Mi contaste" # Por convención.
+
+
